@@ -1,0 +1,22 @@
+streamlit
+spacy
+spacy_streamlit
+textblob
+mysql client cp37
+pattern
+beautifulsoup4
+html5lib
+click
+python -m spacy download en_core_web_sm
+sumy
+pysummarization
+torch
+torchvision
+torchaudio
+transformers
+sentencepiece
+pyodbc
+boto
+boto3
+botocore
+openai
