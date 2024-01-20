@@ -7,7 +7,6 @@ pattern
 beautifulsoup4
 html5lib
 click
-python -m spacy download en_core_web_sm
 sumy
 pysummarization
 torch
@@ -20,3 +19,4 @@ boto
 boto3
 botocore
 openai
+altair == 4.0
